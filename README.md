@@ -41,10 +41,13 @@ ii)  SQUARE WAVE INPUT
 
 
 ## TABULATION:
+![IMG_20251203_142432 1](https://github.com/user-attachments/assets/0a4d5890-9650-4152-859d-813afd593dfe)
 
 
 ## GRAPH:
+![IMG_20251203_142502 1](https://github.com/user-attachments/assets/716b3844-d473-4438-8341-10a048eb4b0b)
 
 
 ## RESULT:
+![IMG_20251203_142510 1](https://github.com/user-attachments/assets/38847f58-8cc1-419b-b491-f73bac533c92)
 
